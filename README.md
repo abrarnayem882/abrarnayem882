@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Sc. in Software Engineering (CGPA: **3.88/4.00**)  
+- 🎓 B.Sc. in Software Engineering  
 - 🔐 Focused on **Cybersecurity, SOC Analysis & Ethical Hacking**
 - 💻 Strong in **Frontend Development & Problem Solving**
 - 🧠 Quick learner with leadership & teamwork experience  
